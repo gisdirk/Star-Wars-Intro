@@ -1,4 +1,4 @@
 # Star-Wars-Intro
 
-<a href="gisdirk.github.io/star-wars-intro/">Demo</a>
+<a href="https://gisdirk.github.io/Star-Wars-Intro/">Demo</a>
 
